@@ -1,0 +1,12 @@
+com.kuka.roboticsAPI.publishing.common.ncf
+com.kuka.roboticsAPI.publishing.common.ncf.contracts
+com.kuka.roboticsAPI.publishing.common.ncf.messages
+com.kuka.roboticsAPI.publishing.common.ncf.serialization
+com.kuka.roboticsAPI.publishing.common.ncf.serialization.json
+com.kuka.roboticsAPI.publishing.proxy.ncf
+com.kuka.roboticsAPI.publishing.server
+com.kuka.roboticsAPI.publishing.server.ncf
+com.kuka.roboticsAPI.publishing.server.webservices
+com.kuka.roboticsAPI.publishing.serviceDirectory.client.ncf
+com.kuka.roboticsAPI.publishing.serviceDirectory.common.ncf
+com.kuka.roboticsAPI.publishing.serviceDirectory.server

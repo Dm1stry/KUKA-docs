@@ -1,0 +1,11 @@
+com.kuka.common
+com.kuka.common.concurrent
+com.kuka.common.connections
+com.kuka.common.devices
+com.kuka.common.events
+com.kuka.common.exceptions
+com.kuka.common.params
+com.kuka.common.persistence
+com.kuka.common.persistence.Level3Exceptions
+com.kuka.common.properties
+com.kuka.common.versioning

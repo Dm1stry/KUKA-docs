@@ -1,0 +1,4 @@
+download fri sdk cpp - https://github.com/cmower/FRI-Client-SDK_Cpp/tree/c2a710f974f5ccadbf677a9602d9ce2b21d08af0
+pyFRI - https://github.com/lbr-stack/pyFRI
+iiwa_ros_fri - https://github.com/RIVeR-Lab/iiwa_ros_fri
+official - https://www.kuka.com/en-de/products/robot-systems/industrial-robots/lbr-iiwa

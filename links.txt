@@ -3,3 +3,6 @@ pyFRI - https://github.com/lbr-stack/pyFRI
 iiwa_ros_fri - https://github.com/RIVeR-Lab/iiwa_ros_fri
 official - https://www.kuka.com/en-de/products/robot-systems/industrial-robots/lbr-iiwa
 pdf sources - https://pdfdrive.to/author/kuka (likely, just one file per day, be carefull (fri 1.7 already in this repo))
+[iiwa_stack](https://github.com/IFL-CAMP/iiwa_stack) - ros1 package for iiwa LBR (7 and 14) control (uses SmartServo) tested on Sunrise.OS 1.7, works fine
+[lbr_iiwa](https://github.com/rtkg/lbr_iiwa) - repo of usefull staff (corrected URDF, FRI wrapper class, Client-Server example for c++ - on pc and Java on Sunrise.OS communication) (not tested yet)
+[iiwa_ros2](https://github.com/ICube-Robotics/iiwa_ros2) - ROS2 stack for KUKA iiwa 14 collaborative robots. (Not workwed as is on LBR 14 Sunrise.OS 1.7 and ros2 humble, but maybe it's just my fault. I think that is oriented primary for Kuka Med robots)

@@ -1,5 +1,5 @@
 # KUKA-docs
-Collected in the internet set of the documentation of KUKA (mostly kuka iiwa, but not only)
+Collected in the internet set of the documentation of KUKA (mostly kuka lbr iiwa, but not only)
 
 # Usefil links
 Useful links for using Kuka can be found in links.txt file located at the root of the current repo
